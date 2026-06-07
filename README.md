@@ -1,2 +1,18 @@
-# nashiee254
-mutahi-tech
+# Hi, I'm Nahashon Munyiri Mutahi 👋
+
+## About Me
+- 💻 Software Developer
+- 🌱 Currently learning new technologies
+- 🚀 Passionate about web development 
+- 📍 Kenya
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Git & GitHub
+## Connect With Me
+- Email:Nahashonmutahi95@gmail.com
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashiee254_icons=true)
