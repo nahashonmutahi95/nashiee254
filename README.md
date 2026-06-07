@@ -10,7 +10,7 @@
 - HTML
 - CSS
 - JavaScript
-- Python
+- deployment to production
 - Git & GitHub
 ## Connect With Me
 - Email:Nahashonmutahi95@gmail.com
