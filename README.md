@@ -15,4 +15,4 @@
 ## Connect With Me
 - Email:Nahashonmutahi95@gmail.com
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nashiee254_icons=true)
+![GitHub Stats](https://github-readme-stats)
