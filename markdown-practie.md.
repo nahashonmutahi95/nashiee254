@@ -1,0 +1,59 @@
+## My Learning Goals
+
+### This Semester
+
+I want to learn **GitHub**, *web development*, and `Markdown`.
+
+## Links
+
+- My GitHub Profile: https://github.com/nahashonmutahi
+- Useful Website: https://www.freecodecamp.org
+
+## Things I Want to Learn
+
+- Git and GitHub
+- HTML and CSS
+- JavaScript
+
+## Steps to Make a Git Commit
+
+1. Make changes to your files.
+2. Stage the changes using `git add .`
+3. Commit the changes using `git commit -m "message"`
+4. Push the changes using `git push`
+
+## Tools Table
+
+| Tool | Purpose | Link |
+|------|---------|------|
+| GitHub | Store and manage code | https://github.com |
+| VS Code | Write and edit code | https://code.visualstudio.com |
+
+## Task List
+
+- [x] Create a GitHub account
+- [x] Learn basic Markdown
+- [ ] Build a personal website
+- [ ] Learn JavaScript
+
+## Code Block
+
+```python
+print("Hello, GitHub!")
+```
+
+## Blockquote
+
+> Success is the sum of small efforts repeated day in and day out.
+
+## About Me
+
+Hello! My name is **Nahashon Munyiri Mutahi**. I am a student passionate about *technology* and software development. I use `GitHub` to share my projects and learn new skills.
+
+### My Interests
+
+- Web Development
+- Programming
+- Open Source Projects
+
+You can visit my GitHub profile at: https://github.com/nahashonmutahi
